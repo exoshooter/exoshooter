@@ -64,9 +64,9 @@ const asciiTitle = `
 const creditText = "made by Grok 3";
 
 // Links for icons (replace with your actual URLs)
-const websiteLink = "https://yourwebsite.com"; // Replace with your site
+const websiteLink = "https://github.com/exoshooter/exoshooter"; // Replace with your site
 const xLink = "https://x.com/exoshootersol"; // Replace with your X profile
-const pumpfunLink = "https://exoshooter.gitbook.io/exo-shooter"; // Replace with your Pump.fun link
+const pumpfunLink = "pastehere"; // Replace with your Pump.fun link
 
 // Input handling
 window.addEventListener('keydown', (e) => {
