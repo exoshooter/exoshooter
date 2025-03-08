@@ -1,7 +1,7 @@
 ![Comp 2_00000](https://github.com/user-attachments/assets/d88a32d3-1fa5-438c-84df-9590453094e4)
 # Exo Shooter
 
-Welcome to **Exo Shooter**, an exciting space-themed shooter game where you pilot a spacex spaceship to battle enemies, collect power-ups, and aim to become a trillionaire! This game combines fast-paced action with a unique scoring system, featuring clickable icons at the top-middle of the screen linking to a website, X, and Pump.fun.
+Welcome to **Exo Shooter**, an exciting space-themed shooter game where you pilot a spacex spaceship to battle enemies, collect power-ups, and aim to become a trillionaire! This game combines fast-paced action with a unique scoring system.
 
 ## Game Overview
 - **Objective**: Navigate your spaceship using arrow keys, shoot enemies with the spacebar, and collect power-ups to increase your bullet count (up to 5). Earn points by defeating enemies, with a goal of reaching 1 trillion dollars to win!
