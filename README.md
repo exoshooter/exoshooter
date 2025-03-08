@@ -22,8 +22,11 @@ This game was **fully designed and coded by Grok 3**, an AI developed by xAI, wi
 Grok 3 is revolutionizing the way games are made, empowering individuals without coding backgrounds to bring their ideas to life. Its intuitive guidance and ability to handle complex game mechanics make it a powerful ally for aspiring developers. Just as AI agents transformed industries by automating tasks, Grok 3 has the potential to disrupt the current wave of trending tokens (like AI-driven projects) by enabling a new era of accessible game creation. This could inspire a surge in innovative, AI-crafted games, reshaping the gaming landscape and token ecosystems.
 
 2022 - utility coins
+
 2023 - memecoins
+
 2024 - ai agent coins
+
 2025 - ai games ??? 
 
 Feel free to fork this repository, contribute, or share your thoughts! 🚀
