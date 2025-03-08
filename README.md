@@ -28,5 +28,3 @@ Grok 3 is revolutionizing the way games are made, empowering individuals without
 2024 - ai agent coins
 
 2025 - ai games ??? 
-
-Feel free to fork this repository, contribute, or share your thoughts! 🚀
