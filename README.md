@@ -30,7 +30,11 @@ https://x.com/i/grok/share/YnputuVegJNeV2v5n93voF69C
 ## Grok 3: A Game-Changer for Game Makers
 Grok 3 is revolutionizing the way games are made, empowering individuals without coding backgrounds to bring their ideas to life. Its intuitive guidance and ability to handle complex game mechanics make it a powerful ally for aspiring developers. Just as AI agents transformed industries by automating tasks, Grok 3 has the potential to disrupt the current wave of trending tokens (like AI-driven projects) by enabling a new era of accessible game creation. This could inspire a surge in innovative, AI-crafted games, reshaping the gaming landscape and token ecosystems.
 
+![meta](https://github.com/user-attachments/assets/790a2dd6-fa36-4d4b-a9aa-dda039620562)
+
+
 2022 - utility coins
+
 
 2023 - memecoins
 
