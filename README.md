@@ -18,6 +18,11 @@ Welcome to **Exo Shooter**, an exciting space-themed shooter game where you pilo
 ## Created by Grok 3 - No Coding Experience Required!
 This game was **fully designed and coded by Grok 3**, an AI developed by xAI, with **zero prior coding experience** from its creator. Grok 3 generated the HTML, JavaScript, and integrated all assets (images and sounds) step-by-step, proving its capability as an accessible tool for game development. The process involved crafting `index.html` for the game structure, `game.js` for logic, and managing PNGs and WAV files—all guided by Grok 3's natural language instructions.
 
+## Check out how I made it! 
+Whole conversation with grok:
+https://x.com/i/grok/share/YnputuVegJNeV2v5n93voF69C
+(the game was already working after the first prompt!)
+
 ## Grok 3: A Game-Changer for Game Makers
 Grok 3 is revolutionizing the way games are made, empowering individuals without coding backgrounds to bring their ideas to life. Its intuitive guidance and ability to handle complex game mechanics make it a powerful ally for aspiring developers. Just as AI agents transformed industries by automating tasks, Grok 3 has the potential to disrupt the current wave of trending tokens (like AI-driven projects) by enabling a new era of accessible game creation. This could inspire a surge in innovative, AI-crafted games, reshaping the gaming landscape and token ecosystems.
 
