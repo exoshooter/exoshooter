@@ -20,7 +20,9 @@ This game was **fully designed and coded by Grok 3**, an AI developed by xAI, wi
 
 ## Check out how I made it! 
 Whole conversation with grok:
+
 https://x.com/i/grok/share/YnputuVegJNeV2v5n93voF69C
+
 (the game was already working after the first prompt!)
 
 ## Grok 3: A Game-Changer for Game Makers
